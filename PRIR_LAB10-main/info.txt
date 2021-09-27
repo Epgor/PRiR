@@ -1,0 +1,7 @@
+lab10_2.ipynb by:
+https://colab.research.google.com/github/lmoroney/mlday-tokyo/blob/master/Lab1-Hello-ML-World.ipynb
+https://datascience.stackexchange.com/questions/40451/approximation-of-function-with-neural-networks
+lab10_1.ipynb by:
+me
+lab10_3.ipynb by:
+https://colab.research.google.com/github/ageron/handson-ml2/blob/master/10_neural_nets_with_keras.ipynb#scrollTo=-l40X8w1Xxi5
